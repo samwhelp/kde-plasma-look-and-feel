@@ -45,5 +45,5 @@ gtk-theme-name=Fluent-Dark
 [gtk-4.0/settings.ini][Settings]
 gtk-theme-name=Fluent-Dark
 
-[kvantum.kvconfig][General]
+[Kvantum/kvantum.kvconfig][General]
 theme=FluentDark

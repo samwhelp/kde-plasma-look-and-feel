@@ -45,5 +45,5 @@ gtk-theme-name=Colloid-Dark
 [gtk-4.0/settings.ini][Settings]
 gtk-theme-name=Colloid-Dark
 
-[kvantum.kvconfig][General]
+[Kvantum/kvantum.kvconfig][General]
 theme=ColloidDark
