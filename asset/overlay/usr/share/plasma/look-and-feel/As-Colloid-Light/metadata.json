@@ -1,0 +1,20 @@
+{
+	"KPackageStructure": "Plasma/LookAndFeel",
+	"KPlugin": {
+		"Authors": [
+			{
+				"Email": "samwhelp@users.noreply.github.com",
+				"Name": "samwhelp"
+			}
+		],
+		"Category": "",
+		"Description": "Global Theme / As-Colloid-Light",
+		"EnabledByDefault": true,
+		"Id": "As-Colloid-Light",
+		"License": "MIT",
+		"Name": "As-Colloid-Light",
+		"Version": "2.0",
+		"Website": "https://github.com/samwhelp/kde-plasma-look-and-feel"
+	},
+	"X-Plasma-APIVersion": "2"
+}
